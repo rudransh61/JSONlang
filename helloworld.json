@@ -1,3 +1,6 @@
 {
-    "PRINT":"Hello World"
+    "#":"This is a comment",
+    "PRINT":"Hello World",
+    "#":"This comment is only for test",
+    "PRINT":"This is a dummy text printed on a screen"
 }
